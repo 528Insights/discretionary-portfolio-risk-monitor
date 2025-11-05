@@ -1,4 +1,4 @@
-# discretionary-portfolio-risk-monityor
+# discretionary-portfolio-risk-monitor
 
 This project provides a simple discretionary-style portfolio and risk monitoring tool for a small crypto portfolio.  
 It tracks live prices, calculates exposure and PnL and simulates a basic hedge to show how partial offsetting of risk improves stability.
