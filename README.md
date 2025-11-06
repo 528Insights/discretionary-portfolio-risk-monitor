@@ -1,11 +1,13 @@
 # discretionary-portfolio-risk-monitor
 
-This project provides a simple discretionary-style portfolio and risk monitoring tool for a small crypto portfolio.  
-It tracks live prices, calculates exposure and PnL and simulates a basic hedge to show how partial offsetting of risk improves stability.
+This project provides a simple discretionary-style portfolio and risk monitoring tool that simulates how a discretionary trader tracks portfolio value, exposure, and PnL, and applies partial hedging to stabilize returns.  
+The project reflects practical risk awareness and data-driven decision making, both og which are essential skills on a discretionary trading desk.
 
 # Overview
 
-The notebook uses Python and Yahoo Finance data to:
+This notebook demonstrates a simple portfolio and risk monitoring process for a small crypto portfolio.  
+It uses Python and Yahoo Finance data to:
+
 - Fetch recent hourly prices for BTC, ETH, and SOL  
 - Calculate total portfolio value, returns, and daily PnL  
 - Measure exposure contributions by asset  
