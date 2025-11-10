@@ -1,3 +1,5 @@
+Discretionary Portfolio Risk Monitor
+
 This project implements a discretionary-style portfolio and risk monitoring system for a small multi-asset crypto portfolio. The goal is to evaluate how a trader manages exposure, PnL behavior, and hedge effectiveness, rather than relying solely on mechanical entry signals. The emphasis is on understanding how risk moves through the portfolio and how partial hedging can stabilize returns.
 
 Overview
